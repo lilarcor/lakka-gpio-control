@@ -19,7 +19,7 @@ Adding the ability of soft shutdown, restart and reset ui to lakka on Raspberry 
 
 4. In the terminal, type the one-line command below(Case sensitive):
 
-   wget -O - "https://github.com/edus44/lakka-gpio-control/raw/master/install.sh" | bash
+   wget -O - "https://github.com/lilarcor/lakka-gpio-control/raw/master/install.sh" | bash
 
 5. Your Raspberry Pi will reboot and you're done!
 
