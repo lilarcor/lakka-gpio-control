@@ -1,6 +1,6 @@
 # lakka-gpio-control
 
-Adding the ability of soft shutdown, restart and reset ui to lakka on Raspberry Pi 3
+Adding the ability of soft shutdown on Raspberry Pi 3/4
 
 ### How to install
 
